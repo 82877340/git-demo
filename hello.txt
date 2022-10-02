@@ -6,3 +6,4 @@ hahahahahahah
 test hotfix
 tset pull
 test ssh
+test ssh push
